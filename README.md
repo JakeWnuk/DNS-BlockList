@@ -1,5 +1,5 @@
 # Pi-hole Blocklist
-Aggregates Pi-Hole lists into a single list with automation. Please consider supporting the creators listed in .
+Aggregates Pi-Hole lists into a single list with automation. Please consider supporting the creators listed in `sources.json`.
 |Source|
 |---|
 |[StevenBlack](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts)|
