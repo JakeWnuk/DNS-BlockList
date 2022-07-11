@@ -4,7 +4,7 @@
 mkdir -p ./sources
 rm README.md
 echo "# Pi-hole Blocklist" > README.md
-echo "Aggregates Pi-Hole lists into a single list with automation. Please consider supporting the creators listed in `sources.json`." >> README.md
+echo "Aggregates Pi-Hole lists into a single list with automation. Please consider supporting the creators listed in \`sources.json\`." >> README.md
 echo "|Source|" >> README.md; echo "|---|" >> README.md
 
 # download source
