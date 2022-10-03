@@ -18,5 +18,4 @@ do
 done
 
 cat ./sources/*.txt | sed 's/127.0.0.1 //g' | sed 's/0.0.0.0 //g' | grep -vE '#|127.0.0.1|localhost|::0|::1|::2|::3' | grep -P "(?=^.{4,253}$)(^(?:[a-zA-Z0-9](?:(?:[a-zA-Z0-9\-]){0,61}[a-zA-Z0-9])?\.)+([a-zA-Z]{2,}|xn--[a-zA-Z0-9][a-zA-Z0-9\-]*[a-zA-Z0-9])$)" | sort -u >> hosts.lst
-mv hosts.lst tmp.txt
-cat tmp.txt | sort -u > hosts.lst
+sort -u hosts.lst -o hosts.lst
