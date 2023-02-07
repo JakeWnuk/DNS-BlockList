@@ -115,6 +115,34 @@
         {
             "name":"d43m0nhLint3rTikTok",
             "url":"https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/TikTok/tiktokblocklist.txt"
-        }
+        },
+        {
+            "name":"KillNet-DDoS-Blocklist",
+            "url":"https://raw.githubusercontent.com/securityscorecard/SSC-Threat-Intel-IoCs/master/KillNet-DDoS-Blocklist/proxylist.txt"
+        },
+        {
+            "name":"ShadowWhisperer-Tracking",
+            "url":"https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking"
+        },
+        {
+            "name":"ShadowWhisperer-Tunnels",
+            "url":"https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tunnels"
+        },
+        {
+            "name":"ShadowWhisperer-Malware",
+            "url":"https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Malware"
+        },
+        {
+            "name":"ShadowWhisperer-Remote",
+            "url":"https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Remote"
+        },
+        {
+            "name":"ShadowWhisperer-Risk",
+            "url":"https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Risk"
+        },
+        {
+            "name":"ShadowWhisperer-Scam",
+            "url":"https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam"
+        },
     ]
 }
