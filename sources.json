@@ -141,15 +141,15 @@
             "url":"https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam"
         },
         {
-            "name":"Emerging Threats",
+            "name":"EmergingThreats",
             "url":"https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt"
         },
         {
-            "name":"Protector Hosts",
+            "name":"ProtectorHosts",
             "url":"https://raw.githubusercontent.com/furkun/ProtectorHosts/main/hosts"
         },
         {
-            "name":"Discord Phisihing URLs",
+            "name":"DiscordPhishingURLs",
             "url":"https://raw.githubusercontent.com/Dogino/Discord-Phishing-URLs/main/scam-urls.txt"
         },
         {
