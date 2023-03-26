@@ -13,7 +13,7 @@ do
   name="$(echo $line | cut -d "," -f 1 | tr -d '"')"
   url="$(echo $line | cut -d "," -f 2 | tr -d '"')"
   echo "Fetching $name" 
-  curl $url -o ./sources/$name.txt --retry 9 --max-time 60 --retry-delay 60 --retry-max-time 180
+  curl $url -o ./sources/$name.txt --retry 9 --retry-delay 60 --retry-max-time 180
   echo "|[$name]($url)|" >> README.md
 done
 
