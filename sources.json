@@ -117,10 +117,6 @@
             "url":"https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/TikTok/tiktokblocklist.txt"
         },
         {
-            "name":"KillNet-DDoS-Blocklist",
-            "url":"https://raw.githubusercontent.com/securityscorecard/SSC-Threat-Intel-IoCs/master/KillNet-DDoS-Blocklist/proxylist.txt"
-        },
-        {
             "name":"ShadowWhisperer-Tracking",
             "url":"https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking"
         },
@@ -143,6 +139,22 @@
         {
             "name":"ShadowWhisperer-Scam",
             "url":"https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam"
+        },
+        {
+            "name":"Emerging Threats",
+            "url":"https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt"
+        },
+        {
+            "name":"Protector Hosts",
+            "url":"https://raw.githubusercontent.com/furkun/ProtectorHosts/main/hosts"
+        },
+        {
+            "name":"Discord Phisihing URLs",
+            "url":"https://raw.githubusercontent.com/Dogino/Discord-Phishing-URLs/main/scam-urls.txt"
+        },
+        {
+            "name":"AntiPhishingDiscordSteam",
+            "url":"https://raw.githubusercontent.com/Dogino/Discord-Phishing-URLs/main/pihole-phishing-adlist.txt"
         }
     ]
 }
