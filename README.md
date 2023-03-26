@@ -31,10 +31,13 @@ Aggregates Pi-Hole lists into a single list with automation. Please consider sup
 |[BlocklistProjectVaping](https://blocklistproject.github.io/Lists/alt-version/vaping-nl.txt)|
 |[BlocklistProjectSmartTV](https://blocklistproject.github.io/Lists/alt-version/smart-tv-nl.txt)|
 |[d43m0nhLint3rTikTok](https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/TikTok/tiktokblocklist.txt)|
-|[KillNet-DDoS-Blocklist](https://raw.githubusercontent.com/securityscorecard/SSC-Threat-Intel-IoCs/master/KillNet-DDoS-Blocklist/proxylist.txt)|
 |[ShadowWhisperer-Tracking](https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking)|
 |[ShadowWhisperer-Tunnels](https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tunnels)|
 |[ShadowWhisperer-Malware](https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Malware)|
 |[ShadowWhisperer-Remote](https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Remote)|
 |[ShadowWhisperer-Risk](https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Risk)|
 |[ShadowWhisperer-Scam](https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam)|
+|[EmergingThreats](https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt)|
+|[ProtectorHosts](https://raw.githubusercontent.com/furkun/ProtectorHosts/main/hosts)|
+|[DiscordPhishingURLs](https://raw.githubusercontent.com/Dogino/Discord-Phishing-URLs/main/scam-urls.txt)|
+|[AntiPhishingDiscordSteam](https://raw.githubusercontent.com/Dogino/Discord-Phishing-URLs/main/pihole-phishing-adlist.txt)|
