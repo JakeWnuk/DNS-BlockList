@@ -41,3 +41,5 @@ Aggregates Pi-Hole lists into a single list with automation. Please consider sup
 |[ProtectorHosts](https://raw.githubusercontent.com/furkun/ProtectorHosts/main/hosts)|
 |[DiscordPhishingURLs](https://raw.githubusercontent.com/Dogino/Discord-Phishing-URLs/main/scam-urls.txt)|
 |[AntiPhishingDiscordSteam](https://raw.githubusercontent.com/Dogino/Discord-Phishing-URLs/main/pihole-phishing-adlist.txt)|
+|[The-NSO-Blacklist](The-NSO-Blacklist)|
+|[](https://raw.githubusercontent.com/0n1cOn3/The-NSO-Blacklist/main/hosts.txt)|
