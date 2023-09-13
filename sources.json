@@ -155,6 +155,10 @@
         {
             "name":"AntiPhishingDiscordSteam",
             "url":"https://raw.githubusercontent.com/Dogino/Discord-Phishing-URLs/main/pihole-phishing-adlist.txt"
+        },
+        {
+            "name":"The-NSO-Blacklist ",
+            "url":"https://raw.githubusercontent.com/0n1cOn3/The-NSO-Blacklist/main/hosts.txt"
         }
     ]
 }
