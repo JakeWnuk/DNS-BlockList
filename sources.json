@@ -159,6 +159,10 @@
         {
             "name":"The-NSO-Blacklist",
             "url":"https://raw.githubusercontent.com/0n1cOn3/The-NSO-Blacklist/main/hosts.txt"
+        },
+        {
+            "name:"URLhaus",
+            "url":"https://urlhaus.abuse.ch/downloads/text/"
         }
     ]
 }
