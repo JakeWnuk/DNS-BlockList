@@ -42,3 +42,4 @@ Aggregates Pi-Hole lists into a single list with automation. Please consider sup
 |[DiscordPhishingURLs](https://raw.githubusercontent.com/Dogino/Discord-Phishing-URLs/main/scam-urls.txt)|
 |[AntiPhishingDiscordSteam](https://raw.githubusercontent.com/Dogino/Discord-Phishing-URLs/main/pihole-phishing-adlist.txt)|
 |[The-NSO-Blacklist](https://raw.githubusercontent.com/0n1cOn3/The-NSO-Blacklist/main/hosts.txt)|
+|[URLhaus](https://urlhaus.abuse.ch/downloads/text/)|
